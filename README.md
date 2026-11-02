@@ -5,7 +5,7 @@
 A data analysis application created as part of a university web development course using html, css, and javascript to calculate analysis questions for a data set.
 It features a file input section with analysis questions and an output area.
 
-**Please see screenshots of the website in the data-analysis-web-app-screenshots file.
+**Please see screenshots of the website in the data-analysis-web-app-screenshots file. The data file used is HW3-data.json.
 
 ## Features
 - Uploads and processes employee salary data from a JSON file.
